@@ -1,7 +1,7 @@
-1st change here!
-3rd change here!
+first change here!
+thrid change here!
 
 Lines copied!
 
-1st change here!
-3rd change here!
+first change here!
+third change here!
